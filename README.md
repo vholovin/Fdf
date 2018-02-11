@@ -12,23 +12,36 @@ Used graphic "MiniLibX" library.
 
 # CONTROLS:
 
-turn:
+# turn:
+
 OX up:         Key: 'W'
+
 OX down:       Key: 'S'
+
 OY left:       Key: 'A'
+
 OY right:      Key: 'D'
+
 OZ underclock: Key: 'Q'
+
 OZ onclock:    Key: 'E'
 
-Move:
+# Move:
+
 Up:             Key: 'up'
+
 Down:           Key: 'down'
+
 Left:           Key: 'left'
+
 Righ:           Key: 'right'
+
 Center:         Key: '~'
 
-Zoom:
+# Zoom:
+
 Small zoom +/-: Key: '+' or '-'
+
 Big zoom +/-:   Key: '[' or ']'
 
-Exit:               Key: esc
+# Exit:               Key: esc
