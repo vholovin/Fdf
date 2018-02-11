@@ -14,34 +14,34 @@ Used graphic "MiniLibX" library.
 
 # turn:
 
-'W' - OX up
+'`W`' - OX up
 
-'S' - OX down
+'`S`' - OX down
 
-'A' - OY left
+'`A`' - OY left
 
-'D' - OY right
+'`D`' - OY right
 
-'Q' - OZ underclock
+'`Q`' - OZ underclock
 
-'E' - OZ onclock
+'`E`' - OZ onclock
 
 # Move:
 
-'up' - Up
+'`up`' - Up
 
-'down' - Down
+'`down`' - Down
 
-'left' - Left
+'`left`' - Left
 
-'right' - Righ
+'`right`' - Righ
 
-'~' - to center
+'`~`' - to center
 
 # Zoom:
 
-'+' or '-' - Small zoom
+'`+`' or '`-`' - Small zoom
 
-'`[`' or ']' - Big zoom
+'`[`' or '`]`' - Big zoom
 
-# 'esc' - Exit
+# '`esc`' - Exit
