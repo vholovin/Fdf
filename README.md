@@ -14,34 +14,34 @@ Used graphic "MiniLibX" library.
 
 # turn:
 
-OX up:         Key: 'W'
+'W' - OX up
 
-OX down:       Key: 'S'
+'S' - OX down
 
-OY left:       Key: 'A'
+'A' - OY left
 
-OY right:      Key: 'D'
+'D' - OY right
 
-OZ underclock: Key: 'Q'
+'Q' - OZ underclock
 
-OZ onclock:    Key: 'E'
+'E' - OZ onclock
 
 # Move:
 
-Up:             Key: 'up'
+'up' - Up
 
-Down:           Key: 'down'
+'down' - Down
 
-Left:           Key: 'left'
+'left' - Left
 
-Righ:           Key: 'right'
+'right' - Righ
 
-Center:         Key: '~'
+'~' - to center
 
 # Zoom:
 
-Small zoom +/-: Key: '+' or '-'
+'+' or '-' - Small zoom
 
-Big zoom +/-:   Key: '[' or ']'
+'`[`' or ']' - Big zoom
 
-# Exit:               Key: esc
+# 'esc' - Exit
